@@ -17,4 +17,4 @@ export class NumbersCollection {
 }
 
 const collection = new NumbersCollection([1, 2, 3]);
-console.log(collection.length);
+collection.length;

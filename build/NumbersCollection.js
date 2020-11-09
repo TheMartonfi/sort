@@ -24,4 +24,4 @@ var NumbersCollection = /** @class */ (function () {
 }());
 exports.NumbersCollection = NumbersCollection;
 var collection = new NumbersCollection([1, 2, 3]);
-console.log(collection.length);
+collection.length;
